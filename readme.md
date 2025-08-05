@@ -1,4 +1,4 @@
-# Algoritmo de Bresenham (Rasterização de Retas)
+# Algoritmo de Bresenham 
 
 Este repositório contém uma implementação em Python do algoritmo de **Bresenham para rasterização de segmentos de reta**, utilizado na disciplina de Computação Gráfica.
 
@@ -29,7 +29,6 @@ Para os pontos (1, 1) até (8, 5), a saída é:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/laravitoriabarros/atividade01-bresenham.git
-   cd bresenham-line-algorithm
 
 2. Execute o programa
 
